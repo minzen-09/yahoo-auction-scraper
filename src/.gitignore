@@ -1,0 +1,7 @@
+# Python関連
+__pycache__/
+*.pyc
+venv/
+
+# 実データや個人情報
+data/sample_purchase_output.csv
