@@ -1,7 +1,10 @@
-# Python関連
-__pycache__/
-*.pyc
+# 仮想環境
 venv/
+__pycache__/
 
-# 実データや個人情報
-data/sample_purchase_output.csv
+# データファイル
+data/*.csv
+data/*.html
+
+# OSの不要ファイル
+.DS_Store
