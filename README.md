@@ -41,5 +41,5 @@ yahoo-auction-scraper/
 │  └─ sample_purchase_output.csv
 ├─ src/
 │  └─ main.py
-├─ README.md
-└─ .gitignore
+├─ .gitignore
+└─ README.md
